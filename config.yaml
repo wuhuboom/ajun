@@ -1,0 +1,13 @@
+project:
+  port: "8080"
+
+
+
+
+
+mysql:
+  username: "root"
+  password: "123456789"
+  database: "dice"
+
+
